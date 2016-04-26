@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JonasAntonsson/react-server/issues"
   },
-  "homepage": "https://github.com/JonasAntonsson/react-server#readme"
+  "homepage": "https://github.com/JonasAntonsson/react-server#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
