@@ -1,0 +1,19 @@
+{
+  "name": "react-server",
+  "version": "1.0.0",
+  "description": "A simple server for testing react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasAntonsson/react-server.git"
+  },
+  "author": "Jonas Antonsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonasAntonsson/react-server/issues"
+  },
+  "homepage": "https://github.com/JonasAntonsson/react-server#readme"
+}
